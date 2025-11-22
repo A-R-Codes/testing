@@ -7,5 +7,6 @@
 </head>
 <body>
     <p>database connection file</p>
+    <p>here we will make database connection</p>
 </body>
 </html>
